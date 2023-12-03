@@ -2,6 +2,15 @@
 
 The details of project is [here](https://dark-shield-55e.notion.site/Admin-Dashboard-3bc214bb876e4453ae3cd23288548689).
 
+# during Operation
+![Screenshot 2023-12-03 214733](https://github.com/swarupe7/admin-dashboard/assets/85427735/94be4b1e-db28-4ba0-b433-1acddcb4b32c)
+
+
+#during editing
+![Screenshot 2023-12-03 214904](https://github.com/swarupe7/admin-dashboard/assets/85427735/0958c777-9154-496e-8fbe-285d96b0991e)
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
