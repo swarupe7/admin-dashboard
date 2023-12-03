@@ -38,6 +38,17 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### Features
+Search: Use the search bar to filter records by name, email, or role.
+
+Pagination: Navigate through pages of records.
+
+Selection: Select and delete multiple records at once.
+
+Editing: Edit the name of a record and update it.
+
+Delete: Delete individual records.
+
 ### Deployment
 
 This section has moved here: [checkout](https://admin-dashboard-seven-lime.vercel.app/)
